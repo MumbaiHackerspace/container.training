@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sshKeyData": {
-      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXTIl/M9oeSlcsC5Rfe+nZr4Jc4sl200pSw2lpdxlZ3xzeP15NgSSMJnigUrKUXHfqRQ+2wiPxEf0Odz2GdvmXvR0xodayoOQsO24AoERjeSBXCwqITsfp1bGKzMb30/3ojRBo6LBR6r1+lzJYnNCGkT+IQwLzRIpm0LCNz1j08PUI2aZ04+mcDANvHuN/hwi/THbLLp6SNWN43m9r02RcC6xlCNEhJi4wk4VzMzVbSv9RlLGST2ocbUHwmQ2k9OUmpzoOx73aQi9XNnEaFh2w/eIdXM75VtkT3mRryyykg9y0/hH8/MVmIuRIdzxHQqlm++DLXVH5Ctw6a4kS+ki7 workshop"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDhzjsMinh+tVVMEudMG+6qtzkKAQnyQQLRjUoAkAz6wINM5FiHU+HStEEp8MDsaMGnszz7ADL30WH0bApKQTB0EDAaP7oueDX4L6fBvIZ408nIroxhISTFw/22CFvHtzQXYBc7WcbdPdOHF9Pug4rmMnwQZMoko5h5MfNHgLDj6Vf/XuFyq1ICe+kAAaoRGOApAHdgGsE/YbQdAqvSGrChXOemGtFlPhB/wT1unqMFNFO17xRAEUq1V9RBZkKS3rlTHGqHltt8cNrM5KqkVSmOA6phaAz9qiK2f/2OgOvRHuqxKI+nttHI1b5yzK67aRAcyRuvUrohKrk2ih5UtVdx1X5OPAIgPYUW2+of09QWc0wNBDm3+KIwV6KJkNnj6hR8mT8hqUj2cmqI7e+cCiBSqmxhrFMjysakv+wApUrNWO3NZgac9d3h8Osm/XdPo9Qybxihx4dRtJ4SzvpuXWvLXJlZG0WyU89RcaOO60uwsYSfvLtltvPOzes2aCFDawbrCzlp/waw17DblzbrNdQ+bC8nDhVN7PB1kiULdt0lKDuHWTwFF47fjpyDiypbi+FBaqXKUPncy7MShBljw5qWkxJ8FHq8TDkfiEL9bo+eTnFRMyIGxaT3X30pIx/LEIIxy201WeSGyDw137WeufWlEGU3xbkihiKzl5JqMNCf5w== augcor@gmail.com"
       },
     "workshopName": {
       "value": "workshop"

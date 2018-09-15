@@ -38,6 +38,14 @@
   speaker: bretfisher
   attend: https://conferences.oreilly.com/velocity/vl-eu/public/schedule/detail/71231
 
+- date: 2018-10-21
+  city: Mangalore, Karnataka
+  country: in
+  event: Mangaluru Tech Day 2
+  title: "Kubernetes: Navigating around containers"
+  speaker: augcor
+  attend: https:/http://techmang2.eventbrite.com
+
 - date: 2018-07-12
   city: Minneapolis, MN
   country: us

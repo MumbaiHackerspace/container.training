@@ -98,7 +98,7 @@ TEMPLATE="""<html>
     </table>
   </div>
 </body>
-</html>""".decode("utf-8")
+</html>"""
 
 import datetime
 import jinja2
@@ -137,10 +137,10 @@ with open("index.html", "w") as f:
     	past_workshops=past_workshops,
     	self_paced=self_paced,
     	recorded_workshops=recorded_workshops
-    	).encode("utf-8"))
+    	))
 
 with open("past.html", "w") as f:
 	f.write(template.render(
 		title="Container Training",
 		all_past_workshops=past_workshops
-		).encode("utf-8"))
+		))
